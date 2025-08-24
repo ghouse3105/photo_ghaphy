@@ -1,2 +1,2 @@
 # photo_ghaphy
-done with HTML , CSS
+ the frontend project releated to some design of photography using  HTML , CSS
